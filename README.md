@@ -1,16 +1,16 @@
-## Hi there 👋
+### Introduction
 
-<!--
-**satellia/satellia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend and offensive security engineer. I build APIs that survive real-world traffic—and test the limits of those that don’t.
 
-Here are some ideas to get you started:
+### Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work across the stack when the product demands it: backend, frontend, and everything connecting them.
+My strongest interests lie in API security, exploitation research, and uncovering unintended behaviors hiding at the edges of complex systems.
+
+### Stack
+
+| Layer         | Tools                                          |
+| ------------- | ---------------------------------------------- |
+| **Languages** | Python, TypeScript, Rust, Go                   |
+| **Frontend**  | React, Next.js, Tailwind, shadcn/ui, TanStack Query |
+| **Backend**   | FastAPI, Axum, Hono                            |
